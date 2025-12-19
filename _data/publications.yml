@@ -31,4 +31,11 @@
 #     - metabolomics
 #     - data
 
-[]
+- title: "Efficient Generation of Protein and Protein-Protein Complex Dynamics via SE(3)-Parameterized Diffusion Models"
+  authors: Xu, K., Wang, J., Liu, M., Zhou, K., Lin, S., Li, W., Shi, L., Zhou, P., Liu, H. and Yao, X.
+  journal: Journal of Chemical Information and Modeling
+  year: 2025
+  url: https://doi.org/10.1021/acs.jcim.5c01971
+  themes:
+    - Physics-based modeling
+    - medical chemistry
