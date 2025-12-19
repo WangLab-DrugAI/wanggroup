@@ -10,4 +10,8 @@
 
 # Make sure to check how it looks using `jekyll serve`
 
-[]
+- title: DiffIUPAC
+  description: Diffusion-based generative drug-like molecular editing with chemical natural language
+  image: /images/carouselpic/DiffIUPAC.png
+  link: https://doi.org/10.1016/j.jpha.2024.101137
+  date: 2024-11-02
