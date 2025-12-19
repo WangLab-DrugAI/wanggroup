@@ -39,6 +39,11 @@ learning_resources:
     url: "https://github.com/coleygroup/ML4MolEng"
     category: "Education"
 
+  - title: "RDKit"
+    description: "Open source toolkit for cheminformatics"
+    url: "https://github.com/rdkit"
+    category: "Software"
+
   - title: "OpenRetro"
     description: "An open source library for benchmarking one-step retrosynthesis"
     url: "https://github.com/coleygroup/openretro"
@@ -62,6 +67,16 @@ learning_resources:
   - title: "AI4MolConformation"
     description: "List of molecules ( small molecules, RNA, peptide, protein, enzymes, antibody, and PPIs) conformations and molecular dynamics (force fields) using generative artificial intelligence and deep learning"
     url: "https://github.com/AspirinCode/awesome-AI4MolConformation-MD"
+    category: "Github"
+
+  - title: "GenAI4Mol"
+    description: "List of Molecular and Material design (molecular conformation generation) using Generative AI and Deep Learning"
+    url: "https://github.com/AspirinCode/papers-for-molecular-design-using-DL"
+    category: "Github"
+
+  - title: "GenAI4Protein"
+    description: "List of papers about Protein Design using Deep Learning"
+    url: "https://github.com/Peldom/papers_for_protein_design_using_DL"
     category: "Github"
 
 categories:
