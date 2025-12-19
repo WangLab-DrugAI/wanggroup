@@ -3,7 +3,7 @@ title: "Wang Research Group - People"
 layout: gridlay
 excerpt: "Wang Research Group: People"
 sitemap: false
-permalink: /members
+permalink: /members/
 ---
 
 # People
