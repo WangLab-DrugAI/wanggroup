@@ -1,7 +1,7 @@
 ---
-title: "Wang Research Group - People"
+title: "Wang Research Group - Members"
 layout: gridlay
-excerpt: "Wang Research Group: People"
+excerpt: "Wang Research Group: Members"
 sitemap: false
 permalink: /members/
 ---
