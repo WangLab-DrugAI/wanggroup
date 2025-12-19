@@ -3,7 +3,7 @@ title: "Wang Lab - Publications"
 layout: publications
 excerpt: "Wang Lab -- Publications."
 sitemap: false
-permalink: /publications
+permalink: /publications/
 ---
 <!-- Custom CSS -->
 <style>
