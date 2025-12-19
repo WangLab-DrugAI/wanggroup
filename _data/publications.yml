@@ -49,3 +49,27 @@
   themes:
     - medical chemistry
 
+- title: "AlphaPPIMI: A Comprehensive Deep Learning Framework for Predicting PPI-Modulator Interactions"
+  authors: Liu, D., Song, T., Wang, S., Li, X., Han, P., Wang, J. and Wang, S.
+  journal: Journal of Cheminformatics
+  year: 2025
+  url: https://doi.org/10.1186/s13321-025-01077-2
+  doi: 10.1186/s13321-025-01077-2
+  themes:
+    - medical chemistry
+    - bioinformatics and cheminfo
+
+- title: "Molecular Merged Hypergraph Neural Network for Explainable Solvation Free Energy Prediction"
+  authors: Du, W., Zhang, S., Cai, Z., Li, X., Liu, Z., Fang, J., Wang, J., Wang, X. and Wang, Y.
+  journal: Research
+  year: 2025
+  url: https://doi.org/10.34133/research.0740
+  doi: 10.34133/research.0740
+  themes:
+    - medical chemistry
+    - bioinformatics and cheminfo
+
+
+
+
+
