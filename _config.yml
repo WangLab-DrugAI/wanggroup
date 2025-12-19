@@ -56,7 +56,8 @@ defaults:
 
 # Top navigation (minima / many themes support this)
 header_pages:
+  - _pages/home.md
   - _pages/research.md
   - _pages/members.md
   - _pages/publications.md
-  - _pages/contact.md
+  - _pages/resources.md
