@@ -36,6 +36,7 @@
   journal: Journal of Chemical Information and Modeling
   year: 2025
   url: https://doi.org/10.1021/acs.jcim.5c01971
+  doi: 10.1021/acs.jcim.5c01971
   themes:
     - Physics-based modeling
     - medical chemistry
@@ -89,7 +90,15 @@
     - medical chemistry
     - design and optimization
 
-
+- title: "Exploring the conformational ensembles of protein-protein complex with transformer-based generative model"
+  authors: Wang, J., Wang, X., Chu, Y., Li, C., Li, X., Meng, X., Fang, Y., No, K.T., Mao, J. and Zeng, X.
+  journal: Journal of Chemical Theory and Computation
+  year: 2024
+  url: https://doi.org/10.1021/acs.jctc.4c00255
+  doi: 10.1021/acs.jctc.4c00255
+  themes:
+    - Physics-based modeling
+    - medical chemistry
 
 
 
