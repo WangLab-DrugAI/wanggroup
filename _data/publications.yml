@@ -39,3 +39,13 @@
   themes:
     - Physics-based modeling
     - medical chemistry
+
+- title: "DiffMeta-RL: Reinforcement Learning-Guided Graph Diffusion for Metabolically Stable Molecular Generation"
+  authors: Liu, D., Song, T., Wang, S., Li, X., Han, P., Ju, G., Wang, J. and Wang, S.
+  journal: Journal of Chemical Information and Modeling
+  year: 2025
+  url: https://doi.org/10.1021/acs.jcim.5c02060
+  doi: 10.1021/acs.jcim.5c02060
+  themes:
+    - medical chemistry
+
