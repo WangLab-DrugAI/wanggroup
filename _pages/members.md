@@ -8,7 +8,7 @@ permalink: /members/
 
 # Member
 
-<h2 style="text-align: center; padding-top: 30px">Principal Investigator</h2>
+<h2 style="text-align: center; padding-top: 30px">Ph.D.</h2>
 <div class="col-sm-12 clearfix" style="text-align: center; ">
 <div style="text-align: center;">
 <div class="image-cropper">
