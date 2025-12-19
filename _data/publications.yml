@@ -69,6 +69,26 @@
     - medical chemistry
     - bioinformatics and cheminfo
 
+- title: "Interface-aware molecular generative framework for protein-protein interaction modulators"
+  authors: Wang, J., Mao, J., Li, C., Xiang, H., Wang, X., Wang, S., Wang, Z., Chen, Y., Li, Y., No, K.T. and Song, T.
+  journal: Journal of Cheminformatics
+  year: 2024
+  url: https://doi.org/10.1186/s13321-024-00930-0
+  doi: 10.1186/s13321-024-00930-0
+  themes:
+    - medical chemistry
+    - design and optimization
+
+- title: "Diffusion-based generative drug-like molecular editing with chemical natural language"
+  authors: Wang, J., Zhou, P., Wang, Z., Long, W., Chen, Y., No, K.T., Ouyang, D., Mao, J. and Zeng, X.
+  journal: Journal of Pharmaceutical Analysis
+  year: 2024
+  url: https://doi.org/10.1016/j.jpha.2024.101137
+  doi: 10.1016/j.jpha.2024.101137
+  themes:
+    - medical chemistry
+    - design and optimization
+
 
 
 
