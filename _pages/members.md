@@ -27,7 +27,7 @@ permalink: /members/
 <div class="col-sm-12 clearfix" style="text-align: center; ">
 <div style="text-align: center;">
 <div class="image-cropper">
-<img class="person-pic" src="{{ site.url }}{{ site.baseurl }}/images/teampic/Connor_Coley.jpg" alt="Jianmin photo"/>
+<img class="person-pic" src="{{ site.url }}{{ site.baseurl }}/images/teampic/Jianmin_profile.png" alt="Jianmin photo"/>
 </div>
 <h4><b>Jianmin Wang</b></h4>
 <i>Associate Professor<br>
