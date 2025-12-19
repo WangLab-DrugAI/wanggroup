@@ -3,7 +3,7 @@ title: "Wang Research Group - Resources"
 layout: textlay
 excerpt: "Resources."
 sitemap: false
-permalink: /resources
+permalink: /resources/
 ---
 
 # Resources (work in progress)
