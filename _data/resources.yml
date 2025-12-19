@@ -29,6 +29,11 @@ learning_resources:
     url: "https://patwalters.github.io/year-archive/"
     category: "Blogs"
 
+  - title: "Is life worth living?"
+    description: "cheminformatics tutorials"
+    url: "https://iwatobipen.wordpress.com/"
+    category: "Blogs"
+
   - title: "Derek Lowe's In the Pipeline"
     description: "Commentary on drug discovery and pharmaceutical industry"
     url: "https://www.science.org/blogs/pipeline"
