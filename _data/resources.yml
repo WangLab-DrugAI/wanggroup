@@ -59,16 +59,18 @@ learning_resources:
     url: "https://schwallergroup.github.io/ai4chem_course/"
     category: "Education"
 
-  - title: "AI4MD"
+  - title: "AI4MolConformation"
     description: "List of molecules ( small molecules, RNA, peptide, protein, enzymes, antibody, and PPIs) conformations and molecular dynamics (force fields) using generative artificial intelligence and deep learning"
     url: "https://github.com/AspirinCode/awesome-AI4MolConformation-MD"
-    category: "Education"
+    category: "Github"
 
 categories:
   - name: "Education"
     description: "Educational materials, courses, and tutorials to get you started"
   - name: "Blogs"
     description: "Regular updates and insights from experts"
+  - name: "Github"
+    description: "Research Hub"
   - name: "Tools"
     description: "Interactive tools and utilities"
   - name: "Software"
