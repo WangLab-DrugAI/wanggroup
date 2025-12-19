@@ -10,6 +10,12 @@
 
 # Make sure to check how it looks using `jekyll serve`
 
+- title: AlphaPPImd
+  description: Exploring the conformational ensembles of protein-protein complex with transformer-based generative model
+  image: /images/carouselpic/AlphaPPImd.png
+  link: https://doi.org/10.1021/acs.jctc.4c00255
+  date: 2024-05-30
+
 - title: DiffIUPAC
   description: Diffusion-based generative drug-like molecular editing with chemical natural language
   image: /images/carouselpic/DiffIUPAC.png
