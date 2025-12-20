@@ -1,4 +1,9 @@
 learning_resources:
+  - title: "MIT Deep Learning Book"
+    description: "MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville"
+    url: "https://github.com/janishar/mit-deep-learning-book-pdf"
+    category: "Books"
+
   - title: "Andrew White's Book"
     description: "Deep Learning for Molecules and Materials"
     url: "https://whitead.github.io/dmol-book/"
