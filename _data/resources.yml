@@ -19,6 +19,16 @@ learning_resources:
     url: "https://distill.pub/"
     category: "Publications"
 
+  - title: "Getting-Started-with-Generative-AI"
+    description: "A curated list of articles and tutorials to start with and understand generative AI"
+    url: "https://github.com/youssefHosni/Getting-Started-with-Generative-AI"
+    category: "Education"
+
+  - title: "awesome-generative-ai-guide"
+    description: "A one stop repository for generative AI research updates, interview resources, notebooks and much more!"
+    url: "https://github.com/aishwaryanr/awesome-generative-ai-guide"
+    category: "Education"
+
   - title: "DeepChem Tutorials"
     description: "Machine learning for drug discovery tutorials"
     url: "https://deepchem.io/tutorials/the-basic-tools-of-the-deep-life-sciences/"
