@@ -154,6 +154,30 @@ learning_resources:
     url: "https://github.com/openbiox/awosome-bioinformatics"
     category: "Bioinformatics"
 
+  - title: "AutoDock Vina"
+    description: "An open-source program for doing molecular docking."
+    url: "https://vina.scripps.edu/"
+    category: "In Silico Drug Design and Discovery"
+
+  - title: "DOCK"
+    description: "DOCK3 and DOCK6"
+    url: "https://dock.compbio.ucsf.edu/index.html"
+    category: "In Silico Drug Design and Discovery"
+
+  - title: "Amber"
+    description: "Amber is a suite of biomolecular simulation programs."
+    url: "https://ambermd.org/"
+    category: "In Silico Drug Design and Discovery"
+
+  - title: "GROMACS"
+    description: "A free and open-source software suite for high-performance molecular dynamics and output analysis."
+    url: "https://www.gromacs.org/"
+    category: "In Silico Drug Design and Discovery"
+
+  - title: "OpenMM"
+    description: "A high-performance toolkit for molecular simulation. Use it as an application, a library, or a flexible programming environment."
+    url: "https://openmm.org/"
+    category: "In Silico Drug Design and Discovery"
 
 categories:
   - name: "Education"
@@ -162,6 +186,8 @@ categories:
     description: "Cheminformatics Material: Resources, Code, and Other things I use to teach Cheminformatics"
   - name: "Bioinformatics"
     description: "Bioinformatics Material: Resources, Code, and Other things I use to teach Bioinformatics"
+  - name: "In Silico Drug Design and Discovery"
+    description: "Materials for Drug Design and Discovery Computing Techniques"
   - name: "Blogs"
     description: "Regular updates and insights from experts"
   - name: "Github"
