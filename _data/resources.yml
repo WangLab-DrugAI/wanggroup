@@ -84,6 +84,11 @@ learning_resources:
     url: "https://github.com/Peldom/papers_for_protein_design_using_DL"
     category: "Github"
 
+  - title: "AI for Chemical Spectra"
+    description: "Artificial intelligence and generative deep learning are used to unlock infrared spectroscopy(IR), mass spectroscopy spectroscopy, NMR spectroscopy, and chemical spectroscopy."
+    url: "https://github.com/AspirinCode/awesome-ChemicalSpectraAI"
+    category: "Github"
+
 categories:
   - name: "Education"
     description: "Educational materials, courses, and tutorials to get you started"
