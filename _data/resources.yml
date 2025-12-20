@@ -1,7 +1,17 @@
 learning_resources:
   - title: "MIT Deep Learning Book"
-    description: "MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville"
+    description: "MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville."
     url: "https://github.com/janishar/mit-deep-learning-book-pdf"
+    category: "Books"
+
+  - title: "Understanding Deep Learning"
+    description: "An authoritative, accessible, and up-to-date treatment of deep learning that strikes a pragmatic middle ground between theory and practice."
+    url: "https://udlbook.github.io/udlbook/"
+    category: "Books"
+
+  - title: "Deep Generative Modeling"
+    description: "Comprehensive book on models behind Generative AI"
+    url: "https://github.com/jmtomczak/intro_dgm"
     category: "Books"
 
   - title: "Andrew White's Book"
