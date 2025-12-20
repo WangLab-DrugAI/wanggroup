@@ -184,6 +184,31 @@ learning_resources:
     url: "https://openmm.org/"
     category: "In Silico Drug Design and Discovery"
 
+  - title: "MDAnalysis"
+    description: "A Python library for analyzing molecular dynamics (MD) simulations."
+    url: "https://www.mdanalysis.org/"
+    category: "In Silico Drug Design and Discovery"
+
+  - title: "MDTraj"
+    description: "A python library that allows users to manipulate molecular dynamics (MD) trajectories."
+    url: "https://www.mdtraj.org/"
+    category: "In Silico Drug Design and Discovery"
+
+  - title: "Open-Source PyMOL"
+    description: "Open-source foundation of the user-sponsored PyMOL molecular visualization system."
+    url: "https://github.com/schrodinger/pymol-open-source"
+    category: "In Silico Drug Design and Discovery"
+
+  - title: "UCSF Chimera"
+    description: "A program for the interactive visualization and analysis of molecular structures and related data, including density maps, trajectories, and sequence alignments."
+    url: "https://www.cgl.ucsf.edu/chimera/"
+    category: "In Silico Drug Design and Discovery"
+
+  - title: "UCSF ChimeraX"
+    description: "UCSF ChimeraX (or simply ChimeraX) is the next-generation molecular visualization program from the Resource for Biocomputing, Visualization, and Informatics (RBVI), following UCSF Chimera."
+    url: "https://www.cgl.ucsf.edu/chimerax/"
+    category: "In Silico Drug Design and Discovery"
+
 categories:
   - name: "Education"
     description: "Educational materials, courses, and tutorials to get you started"
