@@ -40,7 +40,7 @@ learning_resources:
     category: "Cheminformatics"
 
   - title: "deep-learning-with-python-notebooks"
-    description: "Jupyter notebooks for the code samples of the book "Deep Learning with Python"
+    description: "Jupyter notebooks for the code samples of the book 'Deep Learning with Python'"
     url: "https://github.com/fchollet/deep-learning-with-python-notebooks"
     category: "Education"
 
