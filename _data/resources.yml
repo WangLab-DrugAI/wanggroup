@@ -99,6 +99,16 @@ learning_resources:
     url: "https://github.com/openbabel"
     category: "Software"
 
+  - title: "AlphaFold 2"
+    description: "Open source code for AlphaFold 2."
+    url: "https://github.com/google-deepmind/alphafold"
+    category: "Software"
+
+  - title: "AlphaFold 3"
+    description: "AlphaFold 3 inference pipeline."
+    url: "https://github.com/google-deepmind/alphafold3"
+    category: "Software"
+
   - title: "Open Chemistry"
     description: "Permissively licensed cross-platform tools that provide applications for computational chemistry, materials science, and related areas."
     url: "https://github.com/OpenChemistry"
@@ -157,9 +167,9 @@ categories:
   - name: "Github"
     description: "Research Hub"
   - name: "Tools"
-    description: "Interactive tools and utilities"
+    description: "Interactive tools, utilities, and kits"
   - name: "Software"
-    description: "Open-source software packages"
+    description: "Open-source (AI-powered) software packages"
   # - name: "Datasets"
   #   description: "Curated data for research and development"
   - name: "Books"
