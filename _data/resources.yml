@@ -164,6 +164,11 @@ learning_resources:
     url: "https://dock.compbio.ucsf.edu/index.html"
     category: "In Silico Drug Design and Discovery"
 
+  - title: "rDock"
+    description: "A fast and versatile Open Source docking program that can be used to dock small molecules against proteins and nucleic acids."
+    url: "https://rdock.github.io/"
+    category: "In Silico Drug Design and Discovery"
+
   - title: "Amber"
     description: "Amber is a suite of biomolecular simulation programs."
     url: "https://ambermd.org/"
