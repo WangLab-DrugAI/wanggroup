@@ -14,6 +14,11 @@ learning_resources:
     url: "https://greglandrum.github.io/rdkit-blog/"
     category: "Blogs"
 
+  - title: "Biopython"
+    description: "Biopython is a set of freely available tools for biological computation written in Python by an international team of developers."
+    url: "https://github.com/biopython"
+    category: "Tools"
+
   - title: "CDPKit"
     description: "The Chemical Data Processing Toolkit"
     url: "https://github.com/molinfo-vienna/CDPKit"
