@@ -100,5 +100,53 @@
     - Physics-based modeling
     - medical chemistry
 
+- title: "Transformer-based molecular generative model for antiviral drug design"
+  authors: Mao, J., Wang, J., Zeb, A., Cho, K.H., Jin, H., Kim, J., Lee, O., Wang, Y. and No, K.T.
+  journal: Journal of Chemical Information and Modeling
+  year: 2023
+  url: https://doi.org/10.1021/acs.jcim.3c00536
+  doi: 10.1021/acs.jcim.3c00536
+  themes:
+    - medical chemistry
+    - design and optimization
 
+- title: "Explore drug-like space with deep generative models"
+  authors: Wang, J., Mao, J., Wang, M., Le, X. and Wang, Y.
+  journal: Methods
+  year: 2023
+  url: https://doi.org/10.1016/j.ymeth.2023.01.004
+  doi: 10.1016/j.ymeth.2023.01.004
+  themes:
+    - medical chemistry
+    - design and optimization
+
+- title: "Application of a deep generative model produces novel and diverse functional peptides against microbial resistance"
+  authors: Mao, J., Guan, S., Chen, Y., Zeb, A., Sun, Q., Lu, R., Dong, J., Wang, J. and Cao, D.
+  journal: Computational and Structural Biotechnology Journal
+  year: 2022
+  url: https://doi.org/10.1016/j.csbj.2022.12.029
+  doi: 10.1016/j.csbj.2022.12.029
+  themes:
+    - medical chemistry
+    - bioinformatics and cheminfo
+
+- title: "Molormer: a lightweight self-attention-based method focused on spatial structure of molecular graph for drug–drug interactions prediction"
+  authors: Zhang, X., Wang, G., Meng, X., Wang, S., Zhang, Y., Rodriguez-Paton, A., Wang, J. and Wang, X.
+  journal: Briefings in Bioinformatics
+  year: 2022
+  url: https://doi.org/10.1093/bib/bbac296
+  doi: 10.1093/bib/bbac296
+  themes:
+    - clinical pharmacy
+    - bioinformatics and cheminfo
+
+- title: "De novo molecular design with deep molecular generative models for PPI inhibitors"
+  authors: Wang, J., Chu, Y., Mao, J., Jeon, H.N., Jin, H., Zeb, A., Jang, Y., Cho, K.H., Song, T. and No, K.T.
+  journal: Briefings in Bioinformatics
+  year: 2022
+  url: https://doi.org/10.1093/bib/bbac285
+  doi: 10.1093/bib/bbac285
+  themes:
+    - medical chemistry
+    - design and optimization
 
