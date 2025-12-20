@@ -14,7 +14,7 @@ permalink: /members/
 <div class="image-cropper">
 <img class="person-pic" src="{{ site.url }}{{ site.baseurl }}/images/teampic/Jianmin_profile.png" alt="Jianmin photo"/>
 </div>
-<h4><b>Jianmin Wang</b></h4>
+<h4><b>王建民 (Jianmin Wang)</b></h4>
 <i>Ph.D.<br>
 Department of Integrative Biotechnology under the Institute of Convergence Science and Technology<br>
 Yonsei University<br></i>
