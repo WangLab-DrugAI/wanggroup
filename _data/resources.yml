@@ -1,4 +1,9 @@
 learning_resources:
+  - title: "Machine Learning Glossary"
+    description: "This glossary defines artificial intelligence terms."
+    url: "https://developers.google.cn/machine-learning/glossary"
+    category: "Books"
+
   - title: "MIT Deep Learning Book"
     description: "MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville."
     url: "https://github.com/janishar/mit-deep-learning-book-pdf"
