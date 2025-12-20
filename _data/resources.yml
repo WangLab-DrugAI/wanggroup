@@ -14,6 +14,21 @@ learning_resources:
     url: "https://greglandrum.github.io/rdkit-blog/"
     category: "Blogs"
 
+  - title: "CDPKit"
+    description: "The Chemical Data Processing Toolkit"
+    url: "https://github.com/molinfo-vienna/CDPKit"
+    category: "Tools"
+
+  - title: "MolPipeline"
+    description: "A Python package for processing molecules with RDKit in scikit-learn"
+    url: "https://github.com/basf/MolPipeline"
+    category: "Tools"
+
+  - title: "scikit-mol"
+    description: "scikit-learn classes for molecular vectorization using RDKit"
+    url: "https://github.com/EBjerrum/scikit-mol"
+    category: "Tools"
+
   - title: "SMARTSPlus"
     description: "Interactive SMARTS pattern matching tool"
     url: "https://smarts.plus/"
@@ -23,6 +38,11 @@ learning_resources:
     description: "Clear explanations of machine learning concepts"
     url: "https://distill.pub/"
     category: "Publications"
+
+  - title: "deep-learning-with-python-notebooks"
+    description: "Jupyter notebooks for the code samples of the book "Deep Learning with Python"
+    url: "https://github.com/fchollet/deep-learning-with-python-notebooks"
+    category: "Education"
 
   - title: "Getting-Started-with-Generative-AI"
     description: "A curated list of articles and tutorials to start with and understand generative AI"
@@ -49,6 +69,11 @@ learning_resources:
     url: "https://iwatobipen.wordpress.com/"
     category: "Blogs"
 
+  - title: "Cheminformatics 2.0"
+    description: "This blog is about chemical information software for next generation computing environments, broadly defined."
+    url: "https://cheminf20.org/"
+    category: "Blogs"
+
   - title: "Derek Lowe's In the Pipeline"
     description: "Commentary on drug discovery and pharmaceutical industry"
     url: "https://www.science.org/blogs/pipeline"
@@ -64,9 +89,14 @@ learning_resources:
     url: "https://github.com/rdkit"
     category: "Software"
 
-  - title: "OpenRetro"
-    description: "An open source library for benchmarking one-step retrosynthesis"
-    url: "https://github.com/coleygroup/openretro"
+  - title: "Open Babel"
+    description: "Open Babel is a chemical toolbox designed to speak the many languages of chemical data."
+    url: "https://github.com/openbabel"
+    category: "Software"
+
+  - title: "Open Chemistry"
+    description: "Permissively licensed cross-platform tools that provide applications for computational chemistry, materials science, and related areas."
+    url: "https://github.com/OpenChemistry"
     category: "Software"
 
   - title: "Open Reaction Database (ORD)"
