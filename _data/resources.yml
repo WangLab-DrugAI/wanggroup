@@ -154,6 +154,11 @@ learning_resources:
     url: "https://github.com/openbiox/awosome-bioinformatics"
     category: "Bioinformatics"
 
+  - title: "UC Davis Bioinformatics Core Training"
+    description: "UC Davis Bioinformatics Core Training Training course repository."
+    url: "https://github.com/ucdavis-bioinformatics-training"
+    category: "Bioinformatics"
+
   - title: "AutoDock Vina"
     description: "An open-source program for doing molecular docking."
     url: "https://vina.scripps.edu/"
