@@ -34,10 +34,10 @@ learning_resources:
     url: "https://smarts.plus/"
     category: "Tools"
 
-  - title: "Distill Publications"
-    description: "Clear explanations of machine learning concepts"
-    url: "https://distill.pub/"
-    category: "Publications"
+  - title: "Cheminformatics-Teaching-Material"
+    description: "Resources, Code, and Other things for Cheminformatics."
+    url: "https://github.com/Sulstice/Cheminformatics-Teaching-Material"
+    category: "Cheminformatics"
 
   - title: "deep-learning-with-python-notebooks"
     description: "Jupyter notebooks for the code samples of the book "Deep Learning with Python"
@@ -133,10 +133,15 @@ learning_resources:
     description: "Artificial intelligence and generative deep learning are used to unlock infrared spectroscopy(IR), mass spectroscopy spectroscopy, NMR spectroscopy, and chemical spectroscopy."
     url: "https://github.com/AspirinCode/awesome-ChemicalSpectraAI"
     category: "Github"
+  
 
 categories:
   - name: "Education"
     description: "Educational materials, courses, and tutorials to get you started"
+  - name: "Cheminformatics"
+    description: "Cheminformatics Material: Resources, Code, and Other things I use to teach Cheminformatics"
+  - name: "Bioinformatics"
+    description: "Bioinformatics Material: Resources, Code, and Other things I use to teach Cheminformatics"
   - name: "Blogs"
     description: "Regular updates and insights from experts"
   - name: "Github"
@@ -145,8 +150,6 @@ categories:
     description: "Interactive tools and utilities"
   - name: "Software"
     description: "Open-source software packages"
-  - name: "Publications"
-    description: "Academic journals and research platforms"
   # - name: "Datasets"
   #   description: "Curated data for research and development"
   - name: "Books"
