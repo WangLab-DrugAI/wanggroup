@@ -35,6 +35,10 @@ permalink: /publications/
       margin-right: 5px;
       cursor: pointer;
   }
+  .pub-year{
+  margin-top: 1.2rem;
+  margin-bottom: 0.6rem;
+  }
 </style>
 
 <!-- START OF PAGE -->
@@ -54,7 +58,13 @@ permalink: /publications/
 
 <!-- Display all publications -->
 {% assign themes = site.data.research_themes %}
+{% assign current_year = "" %}
 {% for pub in site.data.publications %}
+<!-- Year heading -->
+{% if pub.year != current_year %}
+  <h2 class="pub-year">{{ pub.year }}</h2>
+  {% assign current_year = pub.year %}
+{% endif %}
 <!-- Citations -->
 <div class="publication-item" data-themes="{{ pub.themes | join: ',' }}">
   <p class="hanging-indent">
