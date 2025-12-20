@@ -14,7 +14,7 @@ permalink: /resources/
 <br/>
 
 ### Learning Resources
-A curated collection of external resources, tutorials, and tools that we recommend for learning about computational chemistry, machine learning, and chemical informatics.
+A curated collection of external resources, tutorials, and tools that we recommend for learning about computational chemistry, machine learning, bioinformatics, and chemical informatics.
 
 {% for category in site.data.resources.categories %}
 #### {{ category.name }}
