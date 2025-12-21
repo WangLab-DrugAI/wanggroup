@@ -114,6 +114,16 @@ learning_resources:
     url: "https://github.com/openbabel"
     category: "Software"
 
+  - title: "Psi4"
+    description: "Open-Source Quantum Chemistry – an electronic structure package in C++ driven by Python."
+    url: "https://psicode.org/"
+    category: "Software"
+
+  - title: "PySCF"
+    description: "Python module for quantum chemistry."
+    url: "https://github.com/pyscf/"
+    category: "Software"
+
   - title: "AlphaFold 2"
     description: "Open source code for AlphaFold 2."
     url: "https://github.com/google-deepmind/alphafold"
