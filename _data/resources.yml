@@ -54,6 +54,11 @@ learning_resources:
     url: "https://github.com/rdkit/mmpdb"
     category: "Tools"
 
+  - title: "mols2grid"
+    description: "An interactive molecule viewer for 2D structures, based on RDKit."
+    url: "https://github.com/cbouy/mols2grid"
+    category: "Tools"
+
   - title: "SMARTSPlus"
     description: "Interactive SMARTS pattern matching tool"
     url: "https://smarts.plus/"
