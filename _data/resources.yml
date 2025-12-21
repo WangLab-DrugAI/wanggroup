@@ -189,6 +189,16 @@ learning_resources:
     url: "https://github.com/yboulaamane/awesome-drug-discovery"
     category: "In Silico Drug Design and Discovery"
 
+  - title: "TeachOpenCADD"
+    description: "A teaching platform for computer-aided drug design (CADD) using open source packages and data."
+    url: "https://github.com/volkamerlab/TeachOpenCADD"
+    category: "In Silico Drug Design and Discovery"
+
+  - title: "Open Source Molecular Modeling"
+    description: "Catalog of Open Source Molecular Modeling Projects."
+    url: "https://github.com/OpenSourceMolecularModeling"
+    category: "In Silico Drug Design and Discovery"
+
   - title: "AutoDock Vina"
     description: "An open-source program for doing molecular docking."
     url: "https://vina.scripps.edu/"
