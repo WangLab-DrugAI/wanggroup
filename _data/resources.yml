@@ -45,8 +45,13 @@ learning_resources:
     category: "Tools"
 
   - title: "scikit-mol"
-    description: "scikit-learn classes for molecular vectorization using RDKit"
+    description: "scikit-learn classes for molecular vectorization using RDKit."
     url: "https://github.com/EBjerrum/scikit-mol"
+    category: "Tools"
+
+  - title: "mmpdb"
+    description: "A package to identify matched molecular pairs and use them to predict property changes."
+    url: "https://github.com/rdkit/mmpdb"
     category: "Tools"
 
   - title: "SMARTSPlus"
@@ -92,6 +97,11 @@ learning_resources:
   - title: "Cheminformatics 2.0"
     description: "This blog is about chemical information software for next generation computing environments, broadly defined."
     url: "https://cheminf20.org/"
+    category: "Blogs"
+
+  - title: "Practical Fragments"
+    description: "This blog is meant to allow Fragment-based Drug Design Practitioners to get together and discuss NON-CONFIDENTIAL issues regarding fragments."
+    url: "https://practicalfragments.blogspot.com/"
     category: "Blogs"
 
   - title: "Derek Lowe's In the Pipeline"
