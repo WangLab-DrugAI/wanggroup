@@ -130,6 +130,56 @@
     - Physics-based modeling
     - medical chemistry
 
+- title: "Improving compound-protein interaction prediction by focusing on intra-modality and inter-modality dynamics with a multimodal tensor fusion strategy"
+  authors: Wang, M., Wang, J., Ji, J., Ma, C., Wang, H., He, J., Song, Y., Zhang, X., Cao, Y., Dai, Y. and Hua, M.
+  journal: Computational and Structural Biotechnology Journal
+  year: 2024
+  url: https://doi.org/10.1016/j.csbj.2024.10.004
+  doi: 10.1016/j.csbj.2024.10.004
+  themes:
+    - medical chemistry
+    - bioinformatics and cheminfo
+
+- title: "FraHMT: A fragment-oriented heterogeneous graph molecular generation model for target proteins"
+  authors: Wang, S., Liang, D., Wang, J., Dong, K., Zhang, Y., Liang, H., Xu, X. and Song, T.
+  journal: Journal of Chemical Information and Modeling
+  year: 2024
+  url: https://doi.org/10.1021/acs.jcim.4c00252
+  doi: 10.1021/acs.jcim.4c00252
+  themes:
+    - medical chemistry
+    - design and optimization
+
+- title: "DockingGA: Enhancing Targeted Molecule Generation using Transformer Neural Network and Genetic Algorithm with Docking Simulation"
+  authors: Gao, C., Bao, W., Wang, S., Zheng, J., Wang, L., Ren, Y., Jiao, L., Wang, J. and Wang, X.
+  journal: Briefings in functional genomics
+  year: 2024
+  url: https://doi.org/10.1093/bfgp/elae011
+  doi: 10.1093/bfgp/elae011
+  themes:
+    - medical chemistry
+    - design and optimization
+
+- title: "MOASL: Predicting drug mechanism of action through similarity learning with transcriptomic signature"
+  authors: Jiang, L., Qu, S., Yu, Z., Wang, J. and Liu, X.
+  journal: Computers in Biology and Medicine
+  year: 2023
+  url: https://doi.org/10.1016/j.compbiomed.2023.107853
+  doi: 10.1016/j.compbiomed.2023.107853
+  themes:
+    - clinical pharmacy
+    - bioinformatics and cheminfo
+
+- title: "A multimodal deep learning framework for predicting PPI-modulator interactions"
+  authors: Sun, H., Wang, J., Wu, H., Lin, S., Chen, J., Wei, J., Lv, S., Xiong, Y. and Wei, D.Q.
+  journal: Journal of Chemical Information and Modeling
+  year: 2023
+  url: https://doi.org/10.1021/acs.jcim.3c01527
+  doi: 10.1021/acs.jcim.3c01527
+  themes:
+    - medical chemistry
+    - bioinformatics and cheminfo
+
 - title: "Transformer-based molecular generative model for antiviral drug design"
   authors: Mao, J., Wang, J., Zeb, A., Cho, K.H., Jin, H., Kim, J., Lee, O., Wang, Y. and No, K.T.
   journal: Journal of Chemical Information and Modeling
@@ -160,6 +210,16 @@
     - medical chemistry
     - bioinformatics and cheminfo
 
+- title: "A transformer-based model to predict peptide–HLA class I binding and optimize mutated peptides for vaccine design"
+  authors: Chu, Y., Zhang, Y., Wang, Q., Zhang, L., Wang, X., Wang, Y., Salahub, D.R., Xu, Q., Wang, J., Jiang, X. and Xiong, Y.
+  journal: Nature Machine Intelligence
+  year: 2022
+  url: https://doi.org/10.1038/s42256-022-00459-7
+  doi: 10.1038/s42256-022-00459-7
+  themes:
+    - design and optimization
+    - bioinformatics and cheminfo
+
 - title: "Molormer: a lightweight self-attention-based method focused on spatial structure of molecular graph for drug–drug interactions prediction"
   authors: Zhang, X., Wang, G., Meng, X., Wang, S., Zhang, Y., Rodriguez-Paton, A., Wang, J. and Wang, X.
   journal: Briefings in Bioinformatics
@@ -179,4 +239,46 @@
   themes:
     - medical chemistry
     - design and optimization
+
+- title: "Geometry-based molecular generation with deep constrained variational autoencoder"
+  authors: Li, C., Yao, J., Wei, W., Niu, Z., Zeng, X., Li, J. and Wang, J.
+  journal: IEEE transactions on neural networks and learning systems
+  year: 2022
+  url: https://ieeexplore.ieee.org/abstract/document/9714718
+  doi: 10.1109/TNNLS.2022.3147790
+  themes:
+    - medical chemistry
+    - design and optimization
+
+- title: "A spatial-temporal gated attention module for molecular property prediction based on molecular geometry"
+  authors: Li, C., Wang, J., Niu, Z., Yao, J. and Zeng, X.
+  journal: Briefings in Bioinformatics
+  year: 2021
+  url: https://doi.org/10.1093/bib/bbab078
+  doi: 10.1093/bib/bbab078
+  themes:
+    - medical chemistry
+    - design and optimization
+
+- title: "MUFFIN: multi-scale feature fusion for drug–drug interaction prediction"
+  authors: Chen, Y., Ma, T., Yang, X., Wang, J., Song, B. and Zeng, X.
+  journal: Bioinformatics
+  year: 2021
+  url: https://doi.org/10.1093/bioinformatics/btab169
+  doi: 10.1093/bioinformatics/btab169
+  themes:
+    - clinical pharmacy
+    - bioinformatics and cheminfo
+
+- title: "Design and linkage optimization of ursane-thalidomide-based PROTACs and identification of their targeted-degradation properties to MDM2 protein"
+  authors: Qi, Z., Yang, G., Deng, T., Wang, J., Zhou, H., Popov, S.A.
+  journal: Bioorganic Chemistry
+  year: 2021
+  url: https://doi.org/10.1016/j.bioorg.2021.104901
+  doi: 10.1016/j.bioorg.2021.104901
+  themes:
+    - clinical pharmacy
+    - bioinformatics and cheminfo
+
+
 
