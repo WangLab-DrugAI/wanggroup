@@ -79,6 +79,11 @@ learning_resources:
     url: "https://github.com/lmmentel/awesome-python-chemistry"
     category: "Cheminformatics"
 
+  - title: "Chemoinformatics-compiliation"
+    description: "Try to compile the sources of Cheminformatics that can be helpful for anyone that needs them."
+    url: "https://github.com/Aouidate/Chemoinformatics-compiliation"
+    category: "Cheminformatics"
+
   - title: "deep-learning-with-python-notebooks"
     description: "Jupyter notebooks for the code samples of the book 'Deep Learning with Python'"
     url: "https://github.com/fchollet/deep-learning-with-python-notebooks"
@@ -92,6 +97,16 @@ learning_resources:
   - title: "awesome-generative-ai-guide"
     description: "A one stop repository for generative AI research updates, interview resources, notebooks and much more!"
     url: "https://github.com/aishwaryanr/awesome-generative-ai-guide"
+    category: "Education"
+
+  - title: "ai4chem_course"
+    description: "The Artificial Intelligence (AI) for Chemistry course."
+    url: "https://github.com/schwallergroup/ai4chem_course"
+    category: "Education"
+
+  - title: "GNNs-For-Chemists"
+    description: "Implementations of different GNNs from scratch for chemists"
+    url: "https://github.com/HFooladi/GNNs-For-Chemists"
     category: "Education"
 
   - title: "DeepChem Tutorials"
