@@ -174,6 +174,11 @@ learning_resources:
     url: "https://github.com/google-deepmind/alphafold3"
     category: "Software"
 
+  - title: "Boltz"
+    description: "Official repository for the Boltz biomolecular interaction models."
+    url: "https://github.com/jwohlwend/boltz"
+    category: "Software"
+
   - title: "Open Chemistry"
     description: "Permissively licensed cross-platform tools that provide applications for computational chemistry, materials science, and related areas."
     url: "https://github.com/OpenChemistry"
@@ -222,6 +227,11 @@ learning_resources:
   - title: "UC Davis Bioinformatics Core Training"
     description: "UC Davis Bioinformatics Core Training Training course repository."
     url: "https://github.com/ucdavis-bioinformatics-training"
+    category: "Bioinformatics"
+
+  - title: "Structural-Bioinformatics"
+    description: "This repository includes the slides and the practicals for the course of Structural Bioinformatics of the MBB/QB degrees at the University of Milano."
+    url: "https://github.com/carlocamilloni/Structural-Bioinformatics"
     category: "Bioinformatics"
 
   - title: "Awesome Drug Discovery"
