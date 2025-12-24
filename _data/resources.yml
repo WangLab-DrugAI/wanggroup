@@ -59,6 +59,11 @@ learning_resources:
     url: "https://github.com/cbouy/mols2grid"
     category: "Tools"
 
+  - title: "mordred"
+    description: "A molecular descriptor calculator."
+    url: "https://github.com/JacksonBurns/mordred-community"
+    category: "Tools"
+
   - title: "SMARTSPlus"
     description: "Interactive SMARTS pattern matching tool"
     url: "https://smarts.plus/"
@@ -67,6 +72,11 @@ learning_resources:
   - title: "Cheminformatics-Teaching-Material"
     description: "Resources, Code, and Other things for Cheminformatics."
     url: "https://github.com/Sulstice/Cheminformatics-Teaching-Material"
+    category: "Cheminformatics"
+
+  - title: "Awesome Python Chemistry"
+    description: "A curated list of Python packages related to chemistry."
+    url: "https://github.com/lmmentel/awesome-python-chemistry"
     category: "Cheminformatics"
 
   - title: "deep-learning-with-python-notebooks"
