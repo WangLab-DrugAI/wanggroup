@@ -13,6 +13,13 @@ permalink: /research/
 Our research focuses on drug discovery, medicinal chemistry,(generative) artificial intelligence, deep learning, chemoinformatics, and bioinformatics. Specifically, I apply deep learning methods and computational techniques to unlock drug R&D and health computing.
 
 
+### WeChat Official Account of the Research Group
+
+<div style="text-align: center">
+  <img style="width: 40%;" 
+       src="{{ site.url }}{{ site.baseurl }}/images/logopic/WeChatOfficial_Account_wang.png" 
+       alt="Official WeChat Account of Our Research Group"/>
+</div>
 
 
 
