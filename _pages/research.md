@@ -32,7 +32,7 @@ Proteins can function independently or execute specific biological roles through
 
 
 <div style="text-align: center">
-  <img style="width: 40%;" 
+  <img style="width: 80%;" 
        src="{{ site.url }}{{ site.baseurl }}/images/researchpic/ippi_wang.png" 
        alt="AI for PPI/iPPI"/>
 </div>
