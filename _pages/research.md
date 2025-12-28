@@ -31,7 +31,11 @@ Our research focuses on drug discovery, medicinal chemistry,(generative) artific
 Proteins can function independently or execute specific biological roles through protein–protein interactions (PPIs). This research direction focuses on leveraging in silico computational approaches and artificial intelligence to advance PPI interaction prediction, as well as the design and screening of PPI modulators. In light of the intrinsic challenges associated with PPI interfaces—including structural complexity, limited druggability, and the frequent absence of known lead compounds—this work aims to establish a systematic AI-driven paradigm for PPI-focused interaction prediction, screening, and molecular design, thereby providing scalable computational support for the discovery of PPI-targeted therapeutics.
 
 
-
+<div style="text-align: center">
+  <img style="width: 40%;" 
+       src="{{ site.url }}{{ site.baseurl }}/images/researchpic/ippi_wang.png" 
+       alt="AI for PPI/iPPI"/>
+</div>
 
 
 
