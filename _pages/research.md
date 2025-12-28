@@ -17,7 +17,7 @@ Our research focuses on drug discovery, medicinal chemistry,(generative) artific
 
 <div style="text-align: center">
   <img style="width: 40%;" 
-       src="{{ site.url }}{{ site.baseurl }}/images/logopic/WeChatOfficial_Account_wang.png" 
+       src="{{ site.url }}{{ site.baseurl }}/images/logopic/WeChatOfficial_Account_drugai.png" 
        alt="Official WeChat Account of Our Research Group"/>
 </div>
 
