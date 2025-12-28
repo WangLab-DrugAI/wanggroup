@@ -38,10 +38,17 @@ Proteins can function independently or execute specific biological roles through
 </div>
 
 
-
 #### Physics-Guided Generative AI Integrated with Molecular Dynamics
 
 Biology is an inherently complex dynamical system, and capturing this complexity requires dynamic modeling approaches that can better describe and predict the emergent properties of biological systems. The conformational dynamics of proteins and protein–protein complexes lie at the heart of biological function; however, their in-depth exploration using conventional molecular dynamics (MD) simulations is often hindered by high computational costs and limited sampling efficiency. This research direction aims to integrate physics-guided generative artificial intelligence with MD simulations to enable efficient exploration of the conformational landscapes of proteins and protein–protein interactions. By training deep generative models on MD-derived trajectories, these approaches learn physically meaningful representations of protein motions and directly generate realistic conformational ensembles and trajectories. Such models complement traditional MD by accelerating sampling, uncovering previously unsampled yet physically plausible conformational states, and enabling scalable analysis of protein and protein–protein complex dynamics, thereby providing a powerful computational paradigm for elucidating structure–function relationships in biomolecular systems.
+
+
+<div style="text-align: center">
+  <img style="width: 60%;" 
+       src="{{ site.url }}{{ site.baseurl }}/images/researchpic/genai4md.png" 
+       alt="AI for Molecular Dynamics"/>
+</div>
+
 
 
 
