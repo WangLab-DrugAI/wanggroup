@@ -64,6 +64,16 @@ learning_resources:
     url: "https://github.com/JacksonBurns/mordred-community"
     category: "Tools"
 
+  - title: "ColabFold"
+    description: "Making protein folding accessible to all."
+    url: "https://github.com/sokrypton/ColabFold"
+    category: "Tools"
+    
+  - title: "DockQ"
+    description: "A single continuous quality measure for Protein, Nucleic Acids and Small Molecule Docking Models."
+    url: "https://github.com/wallnerlab/DockQ"
+    category: "Tools"
+
   - title: "SMARTSPlus"
     description: "Interactive SMARTS pattern matching tool"
     url: "https://smarts.plus/"
