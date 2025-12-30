@@ -21,3 +21,9 @@
   image: /images/carouselpic/DiffIUPAC.png
   link: https://doi.org/10.1016/j.jpha.2024.101137
   date: 2024-11-02
+
+- title: GENiPPI
+  description: Interface-aware molecular generative framework for protein–protein interaction modulators
+  image: /images/carouselpic/GENiPPI.png
+  link: https://doi.org/10.1186/s13321-024-00930-0
+  date: 2024-12-20
