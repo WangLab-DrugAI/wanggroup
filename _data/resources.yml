@@ -244,6 +244,11 @@ learning_resources:
     url: "https://github.com/carlocamilloni/Structural-Bioinformatics"
     category: "Bioinformatics"
 
+  - title: "Scikit-bio"
+    description: "A community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources."
+    url: "https://github.com/scikit-bio"
+    category: "Bioinformatics"
+
   - title: "Awesome Drug Discovery"
     description: "A meticulously curated resource list focused on computational methods for drug discovery."
     url: "https://github.com/yboulaamane/awesome-drug-discovery"
