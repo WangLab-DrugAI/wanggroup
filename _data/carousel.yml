@@ -27,3 +27,10 @@
   image: /images/carouselpic/GENiPPI.png
   link: https://doi.org/10.1186/s13321-024-00930-0
   date: 2024-12-20
+
+- title: PTraj-Diff
+  description: Efficient generation of protein and protein–protein complex dynamics via SE(3)-parameterized diffusion models
+  image: /images/carouselpic/PTraj-Diff.png
+  link: https://doi.org/10.1021/acs.jcim.5c01971
+  date: 2025-11-04
+
