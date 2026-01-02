@@ -10,7 +10,8 @@ permalink: /research/
 
 ### Overview 
 ---
-Our research focuses on drug discovery, medicinal chemistry,(generative) artificial intelligence, deep learning, chemoinformatics, and bioinformatics. Specifically, I apply deep learning methods and computational techniques to unlock drug R&D and health computing.
+Our research focuses on drug discovery and pharmaceutical sciences, with a strong emphasis on generative artificial intelligence, deep learning, chemoinformatics, and bioinformatics. We develop and apply deep learning–based and in silico modeling approaches to establish a model-driven pharmaceutical research pipeline, encompassing AI-guided target discovery from multi-omics data, molecular design and virtual screening, in silico prediction of physicochemical and ADMET properties, and model-informed clinical and translational applications. By integrating real-world clinical and manufacturing data as feedback, our work aims to accelerate drug research and development and enable data-driven decision-making in health computing.
+
 
 
 ### WeChat Official Account of the Research Group
