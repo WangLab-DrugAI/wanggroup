@@ -31,6 +31,16 @@
 #     - metabolomics
 #     - data
 
+- title: "Molecular graph-based invariant representation learning with environmental inference and subgraph generation for out-of-distribution generalization"
+  authors: Zhu, H., Yuan, S., Tang, M. et al.
+  journal: Journal of Cheminformatics
+  year: 2026
+  url: https://doi.org/10.1186/s13321-025-01142-w
+  doi: 10.1186/s13321-025-01142-w
+  themes:
+    - molecular representation
+    - medical chemistry
+
 - title: "Efficient Generation of Protein and Protein-Protein Complex Dynamics via SE(3)-Parameterized Diffusion Models"
   authors: Xu, K., Wang, J., Liu, M., Zhou, K., Lin, S., Li, W., Shi, L., Zhou, P., Liu, H. and Yao, X.
   journal: Journal of Chemical Information and Modeling
