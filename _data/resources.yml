@@ -74,6 +74,11 @@ learning_resources:
     url: "https://github.com/wallnerlab/DockQ"
     category: "Tools"
 
+  - title: "reaction_utils"
+    description: "Utilities for working with datasets of chemical reactions, reaction templates and template extraction."
+    url: "https://github.com/MolecularAI/reaction_utils"
+    category: "Tools"
+
   - title: "SMARTSPlus"
     description: "Interactive SMARTS pattern matching tool"
     url: "https://smarts.plus/"
